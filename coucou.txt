@@ -3,6 +3,6 @@ Que pass ?
 anther sample text here
 let add some text
 
-anthoer one here
+because we changed this line
 
 Chapter 2, let's have a little story out there
